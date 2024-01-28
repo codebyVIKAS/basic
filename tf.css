@@ -1,0 +1,37 @@
+#box{
+    border: 2px solid black;
+    height: 490px;
+    width: 200px;
+    margin-top: 80px;
+    margin-left: 320px;
+    background-color: black;
+   
+}
+
+#fc{
+    border: 2px solid black;
+    height: 100px;
+    width: 100px;
+    margin-left: 43px;
+    margin-top: 40px;
+    background-color: red;
+    border-radius: 50%;
+}
+#sc{
+    border: 2px solid black;
+    height: 100px;
+    width: 100px;
+    margin-left: 43px;
+    margin-top: 40px;
+    background-color: yellow;
+    border-radius: 50%;
+}
+#tc{
+    border: 2px solid black;
+    height: 100px;
+    width: 100px;
+    margin-left: 43px;
+    margin-top: 40px;
+    background-color: rgb(46, 215, 46);
+    border-radius: 50%;
+}
